@@ -1,0 +1,26 @@
+        /* intro css starts  */
+        .intro {
+            margin: 4rem;
+        }
+
+        .intro h3 i {
+            color: #34bf49;
+            letter-spacing: 5px;
+            word-spacing: 5px;
+        }
+
+        .intro p {
+            word-spacing: 3px;
+            font-size: 1.9rem;
+        }
+
+        .intro .box {
+            border: 8px solid #34bf49;
+
+        }
+
+        .intro a {
+            font-size: 1.8rem;
+        }
+
+        /* intro css ends  */
